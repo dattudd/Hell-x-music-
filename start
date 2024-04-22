@@ -1,1 +1,2 @@
-python3 -m AnonXMusic
+#! /bin/bash
+python3 host.py & python3 -m AnonXMusic
